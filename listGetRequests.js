@@ -1,22 +1,17 @@
 const puppeteer = require('puppeteer');
-const fs = require('fs/promises'); // Import the fs module with promises support
+const fs = require('fs/promises');
 
 (async () => {
   // Launch a headless browser
   const browser = await puppeteer.launch();
-
   // Create a new page
   const page = await browser.newPage();
-
   // Define the URL to send the POST request to
   const url = 'https://climateaction.unfccc.int/apiv2/actor/country/list';
-
   // Define the data to send in the POST request as an object
   const postData = {
-    key1: 'value1',
-    key2: 'value2',
+    example: 'data',
   };
-
   // Convert the data to a JSON string
   const postDataString = JSON.stringify(postData);
 
@@ -35,18 +30,26 @@ const fs = require('fs/promises'); // Import the fs module with promises support
           'Content-Type': 'application/json',
         },
       });
-
       return fetchResponse.text();
     }, url, postDataString);
 
     // Parse the response data into a JavaScript object
     const responseData = JSON.parse(response);
-    console.log(responseData.countries.length);
 
+    // Create a result string for the TXT file
+    let resultTxt = 'List of GET results:\n';
+
+    // Loop through the countries and build the result string
+    responseData.countries.forEach((country, index) => {
+      resultTxt += `${index + 1}. "https://climateaction.unfccc.int/apiv2/actor/country/${country.countryISO3}"\n`;
+    });
+    
+    // Write the result to a TXT file
+    await fs.writeFile('result.txt', resultTxt);
     // Write the response data to a JSON file
     await fs.writeFile('responseLIST.json', JSON.stringify(responseData, null, 2));
-
-    console.log('POST Response saved to response.json');
+    console.log('POST Response saved to responseLIST.json');
+    console.log('Result saved to result.txt');
   } catch (error) {
     console.error('Error:', error);
   } finally {
