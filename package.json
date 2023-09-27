@@ -1,5 +1,7 @@
 {
   "devDependencies": {
-    "axios": "^1.5.1"
+    "axios": "^1.5.1",
+    "axios-cookiejar-support": "^4.0.7",
+    "tough-cookie": "^4.1.3"
   }
 }
