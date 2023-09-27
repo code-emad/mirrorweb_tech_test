@@ -1,0 +1,478 @@
+{
+  "actorsTotal": 3326,
+  "coopsEngagedTotal": 17,
+  "coopsLocatedTotal": 98,
+  "countryISO2": "US",
+  "countryISO3": "USA",
+  "countryLat": 37.090240478515625,
+  "countryLng": -95.712890625,
+  "displayAsMarker": false,
+  "mapBehaviour": 1,
+  "hasProfile": true,
+  "contextualStatement": "",
+  "landmarkDates": [
+    {
+      "date": "15.10.1992",
+      "description": "Date of Convention Ratification"
+    },
+    {
+      "date": "03.09.2016",
+      "description": "Date of Paris Agreement Ratification"
+    }
+  ],
+  "climateActionPlans": [
+    {
+      "title": "Nationally Determined Contribution (NDC 1)",
+      "date": "03.09.2016",
+      "href": "https://www4.unfccc.int/sites/NDCStaging/pages/Party.aspx?party=USA"
+    },
+    {
+      "title": "Long-Term Low GHG Emission Development Strategies (LT-LEDS)",
+      "date": "16.11.2016",
+      "href": "https://unfccc.int/process/the-paris-agreement/long-term-strategies#UnitedStates"
+    }
+  ],
+  "actorsDistribution": {
+    "companies": 1759,
+    "investors": 250,
+    "organizations": 981,
+    "regions": 21,
+    "cities": 314,
+    "countries": 1
+  },
+  "engagementTypeDistribution": {
+    "initiativesTotal": 2478,
+    "initiativesDistribution": {
+      "companies": 1100,
+      "investors": 204,
+      "organizations": 903,
+      "regions": 18,
+      "cities": 252,
+      "countries": 1
+    },
+    "commitmentsTotal": 2048,
+    "commitmentsWithProgressDistribution": {
+      "companies": 658,
+      "investors": 53,
+      "organizations": 0,
+      "regions": 2,
+      "cities": 95,
+      "countries": 0
+    },
+    "commitmentsWithoutProgressDistribution": {
+      "companies": 1035,
+      "investors": 94,
+      "organizations": 357,
+      "regions": 11,
+      "cities": 184,
+      "countries": 0
+    },
+    "plansTotal": 153,
+    "plansWithMitigationDistribution": {
+      "companies": 0,
+      "investors": 0,
+      "organizations": 0,
+      "regions": 3,
+      "cities": 141,
+      "countries": 0
+    },
+    "plansWithAdaptationDistribution": {
+      "companies": 0,
+      "investors": 0,
+      "organizations": 0,
+      "regions": 4,
+      "cities": 129,
+      "countries": 0
+    },
+    "undertakensTotal": 1181,
+    "undertakensDistribution": {
+      "companies": 804,
+      "investors": 79,
+      "organizations": 81,
+      "regions": 13,
+      "cities": 204,
+      "countries": 0
+    }
+  },
+  "themesDistribution": {
+    "landUseTotal": 1595,
+    "landUseDistribution": {
+      "companies": 807,
+      "investors": 147,
+      "organizations": 483,
+      "regions": 15,
+      "cities": 142,
+      "countries": 1
+    },
+    "oceanAndCoastalTotal": 1431,
+    "oceanAndCoastalDistribution": {
+      "companies": 781,
+      "investors": 93,
+      "organizations": 409,
+      "regions": 7,
+      "cities": 140,
+      "countries": 1
+    },
+    "waterTotal": 1428,
+    "waterDistribution": {
+      "companies": 784,
+      "investors": 91,
+      "organizations": 405,
+      "regions": 7,
+      "cities": 140,
+      "countries": 1
+    },
+    "humanSettlementsTotal": 1602,
+    "humanSettlementsDistribution": {
+      "companies": 814,
+      "investors": 90,
+      "organizations": 456,
+      "regions": 7,
+      "cities": 234,
+      "countries": 1
+    },
+    "transportTotal": 1626,
+    "transportDistribution": {
+      "companies": 902,
+      "investors": 151,
+      "organizations": 413,
+      "regions": 17,
+      "cities": 142,
+      "countries": 1
+    },
+    "energyTotal": 1895,
+    "energyDistribution": {
+      "companies": 1005,
+      "investors": 174,
+      "organizations": 465,
+      "regions": 15,
+      "cities": 235,
+      "countries": 1
+    },
+    "industryTotal": 1625,
+    "industryDistribution": {
+      "companies": 873,
+      "investors": 155,
+      "organizations": 439,
+      "regions": 15,
+      "cities": 142,
+      "countries": 1
+    }
+  },
+  "commitmentsByTargetDistribution": null,
+  "commitmentsTermDistribution": null,
+  "commitmentsByTypeOfActionsDistribution": {
+    "renewableEnergy": {
+      "companiesDistribution": {
+        "longTerm": 25,
+        "mediumTerm": 155,
+        "shortTerm": 65
+      },
+      "companiesWithProgressDistribution": {
+        "longTerm": 24,
+        "mediumTerm": 118,
+        "shortTerm": 56
+      },
+      "investorsDistribution": {
+        "longTerm": 2,
+        "mediumTerm": 10,
+        "shortTerm": 10
+      },
+      "investorsWithProgressDistribution": {
+        "longTerm": 0,
+        "mediumTerm": 8,
+        "shortTerm": 9
+      },
+      "organizationsDistribution": null,
+      "organizationsWithProgressDistribution": null,
+      "regionsDistribution": null,
+      "regionsWithProgressDistribution": null,
+      "citiesDistribution": null,
+      "citiesWithProgressDistribution": null
+    },
+    "emissionReduction": {
+      "companiesDistribution": {
+        "longTerm": 860,
+        "mediumTerm": 1150,
+        "shortTerm": 381
+      },
+      "companiesWithProgressDistribution": {
+        "longTerm": 115,
+        "mediumTerm": 461,
+        "shortTerm": 334
+      },
+      "investorsDistribution": {
+        "longTerm": 94,
+        "mediumTerm": 108,
+        "shortTerm": 38
+      },
+      "investorsWithProgressDistribution": {
+        "longTerm": 20,
+        "mediumTerm": 36,
+        "shortTerm": 37
+      },
+      "organizationsDistribution": {
+        "longTerm": 357,
+        "mediumTerm": 357,
+        "shortTerm": 0
+      },
+      "organizationsWithProgressDistribution": {
+        "longTerm": 0,
+        "mediumTerm": 0,
+        "shortTerm": 0
+      },
+      "regionsDistribution": {
+        "longTerm": 10,
+        "mediumTerm": 8,
+        "shortTerm": 3
+      },
+      "regionsWithProgressDistribution": {
+        "longTerm": 1,
+        "mediumTerm": 2,
+        "shortTerm": 0
+      },
+      "citiesDistribution": {
+        "longTerm": 186,
+        "mediumTerm": 184,
+        "shortTerm": 29
+      },
+      "citiesWithProgressDistribution": {
+        "longTerm": 70,
+        "mediumTerm": 63,
+        "shortTerm": 22
+      }
+    },
+    "energyEfficiency": null,
+    "adaptationResilience": null,
+    "finance": null
+  },
+  "id": 188,
+  "publicId": "USA",
+  "organizationName": "United States of America",
+  "organizationType": "Country",
+  "country": "United States of America",
+  "region": "Northern America",
+  "accountingYear": 0,
+  "hasCommitments": false,
+  "hasEmissionInventory": false,
+  "hasInitiativeParticipations": true,
+  "hasActionsUndertaken": false,
+  "hasImpact": false,
+  "hasMitigations": false,
+  "hasAdaptations": false,
+  "hasRiskAssessments": false,
+  "hasClimateActionPlans": false,
+  "hasFinanceActions": false,
+  "actorType": 7,
+  "announcedCommitments": null,
+  "trackedCommitments": null,
+  "trackedCommitmentsByYear": null,
+  "mitigationActions": null,
+  "financialActions": null,
+  "initiativeParticipations": [
+    {
+      "id": 6,
+      "publicId": "Adhoc14",
+      "initiativeName": "Ocean Risk and Resilience Action Alliance (ORRAA)",
+      "statement": "",
+      "climteFocus": "Equally mitigation and adaptation/resilience",
+      "description": "ORRAA aims to drive at least $500 million of investment into coastal and ocean natural capital and surface at least 50 novel finance products by 2030, positively impacting the resilience of at least 250 million climate vulnerable people in coastal areas around the world.",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 10,
+      "publicId": "Adhoc18",
+      "initiativeName": "Ambitious SIDS Climate Action",
+      "statement": "",
+      "climteFocus": "Equally mitigation and adaptation/resilience",
+      "description": "Commit to the transition to renewable energy and energy efficiency targets by 2030",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 25,
+      "publicId": "Adhoc31",
+      "initiativeName": "Risk-informed Early Action Partnership (REAP)",
+      "statement": "",
+      "climteFocus": "Mainly adaptation/resilience",
+      "description": "Make 1 billion people safer from disasters by 2025, by bringing together an unprecedented range of stakeholders across the climate, humanitarian and development communities to drive progress against our internationally-recognised 4 Targets.",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 27,
+      "publicId": "Adhoc33",
+      "initiativeName": "InsuResilience Global Partnership (IGP)",
+      "statement": "",
+      "climteFocus": "Mainly adaptation/resilience",
+      "description": "InsuResilience Global Partnership (IGP) links governments, multilateral organizations, private sector and civil society to scale up Climate and Disaster Risk Finance and Insurance to protect 500 million poor and vulnerable people against climate shocks by 2025.",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 35,
+      "publicId": "Adhoc40",
+      "initiativeName": "Climate Change Impacts on Cultural and Natural Heritage (CCICH)",
+      "statement": "",
+      "climteFocus": "Mainly adaptation/resilience",
+      "description": "Countries commit to adapt cultural and natural heritage to the impacts of climate change",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 38,
+      "publicId": "Adhoc43",
+      "initiativeName": "Leadership Group for Industry Transition (LeadIT)",
+      "statement": "",
+      "climteFocus": "Mainly mitigation",
+      "description": "Accelerating the transition of all industry sectors to low carbon pathways to reach net-zero carbon emissions by 2050",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 49,
+      "publicId": "CIP-14",
+      "initiativeName": "CCAC: Oil & Gas Methane Partnership (OGMP)",
+      "statement": "",
+      "climteFocus": "Mainly mitigation",
+      "description": "Reduce methane emissions in their operations by systematically surveying for nine key emission sources and publicly report the share of their operations being controlled for those sources",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 50,
+      "publicId": "CIP-15",
+      "initiativeName": "CCAC: Phasing Down Climate Potent HFCs / HFCs Initiative",
+      "statement": "",
+      "climteFocus": "Mainly mitigation",
+      "description": "Reduce the use and emissions of high-GWP HFCs and enhance energy efficiency in the food cold chain, as well as achieve a 30-50 percent reduction in HFC emissions from refrigerant servicing within 10 years",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 51,
+      "publicId": "CIP-16",
+      "initiativeName": "CEM: Global Lighting Challenge",
+      "statement": "",
+      "climteFocus": "Mainly mitigation",
+      "description": "Deploy 10 Billion high-efficiency light bulbs as fast as possible",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 64,
+      "publicId": "CIP-29",
+      "initiativeName": "Global Alliance for Buildings and Construction (GlobalABC)",
+      "statement": "",
+      "climteFocus": "Equally mitigation and adaptation/resilience",
+      "description": "Towards a zero-emission, efficient and resilient buildings and construction sector: Align stakeholders along the buildings and construction value chain, governments, private sector, research, civil society with the well-below 2 degree Paris Agreement Goals",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 69,
+      "publicId": "CIP-33",
+      "initiativeName": "Global Geothermal Alliance (GGA)",
+      "statement": "",
+      "climteFocus": "Equally mitigation and adaptation/resilience",
+      "description": "The GGA is a coalition for action to increase the use of geothermal energy",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 74,
+      "publicId": "CIP-38",
+      "initiativeName": "International Solar Alliance (ISA)",
+      "statement": "",
+      "climteFocus": "Mainly mitigation",
+      "description": "Mobilize more than USD 1 trillion of investments by 2030 for the massive deployment of affordable solar energy",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 82,
+      "publicId": "CIP-45",
+      "initiativeName": "Mission Innovation",
+      "statement": "",
+      "climteFocus": "Mainly mitigation",
+      "description": "A global initiative catalysing a decade of action and investment in research, development and demonstration to make clean energy affordable, attractive and accessible for all",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 82,
+      "publicId": "CIP-45",
+      "initiativeName": "Mission Innovation",
+      "statement": "",
+      "climteFocus": "Mainly mitigation",
+      "description": "A global initiative catalysing a decade of action and investment in research, development and demonstration to make clean energy affordable, attractive and accessible for all",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 95,
+      "publicId": "CIP-57",
+      "initiativeName": "SIDS Lighthouses Initiative",
+      "statement": "",
+      "climteFocus": "Equally mitigation and adaptation/resilience",
+      "description": "A framework for action seeking to leverage partnerships to streamline efforts towards energy transition through implementation of 12 priority areas to achieve a target of total installed RE capacity of 10GW by 2030 for all SIDS",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 102,
+      "publicId": "CIP-63",
+      "initiativeName": "The New York Declaration on Forests",
+      "statement": "",
+      "climteFocus": "Mainly mitigation",
+      "description": "Halve the loss of natural forests globally by 2020, and end forest loss by 2030",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 108,
+      "publicId": "CIP-69",
+      "initiativeName": "2050 Pathways Platform",
+      "statement": "",
+      "climteFocus": "Mainly mitigation",
+      "description": "Build climate resilience for communities, farmers and workers along value chains",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 109,
+      "publicId": "CIP-7",
+      "initiativeName": "Bonn Challenge",
+      "statement": "",
+      "climteFocus": "Equally mitigation and adaptation/resilience",
+      "description": "The Bonn Challenge is a global goal to bring 150 million hectares of degraded and deforested landscapes into restoration by 2020 and 350 million hectares by 2030",
+      "isNew": false,
+      "addedDate": null
+    },
+    {
+      "id": 109,
+      "publicId": "CIP-7",
+      "initiativeName": "Bonn Challenge",
+      "statement": "",
+      "climteFocus": "Equally mitigation and adaptation/resilience",
+      "description": "The Bonn Challenge is a global goal to bring 150 million hectares of degraded and deforested landscapes into restoration by 2020 and 350 million hectares by 2030",
+      "isNew": false,
+      "addedDate": null
+    }
+  ],
+  "engagement": null,
+  "actorProperties": {
+    "population": 328239520,
+    "businessActivity": null,
+    "commitmentsCount": 0,
+    "initiativeParticipationsCount": 19,
+    "actionsUndertakenCount": 0,
+    "mitigationsCount": 0,
+    "adaptationsCount": 0,
+    "climateActionPlanCount": 0,
+    "financeActionsCount": 0
+  },
+  "associatedGCAPProfiles": null,
+  "associatedAssessments": null
+}
